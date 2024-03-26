@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EltonTahiri
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently working with Javascript
 - 📫 How to reach me : eltontahiri4@gmail.com
 
 <!---
