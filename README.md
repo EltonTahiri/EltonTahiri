@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EltonTahiri
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working with ReactJS
+- 🌱 I’m currently working with ReactJS and C#
 - 📫 How to reach me : eltontahiri4@gmail.com
 
 <!---
