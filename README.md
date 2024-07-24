@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EltonTahiri
-- 👀 I’m interested in Web and Application development
+- 👀 I’m interested in Web and Software development
 - 🌱 I’m currently working with ReactJS and C#
 - 📫 How to reach me : eltontahiri4@gmail.com
 
